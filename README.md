@@ -20,6 +20,10 @@ The current implementation focuses on:
 
 ## 1. Continuum Robot Model
 
+<img width="578" height="672" alt="image" src="https://github.com/user-attachments/assets/43343fff-b33c-4c02-8b48-74dd32389f43" />
+<img width="557" height="671" alt="image" src="https://github.com/user-attachments/assets/8c51c3e6-346a-4eaa-89ed-3cbfa6a4781b" />
+<img width="557" height="677" alt="image" src="https://github.com/user-attachments/assets/0eb427b3-8a08-4989-99b5-d48c9ba918f6" />
+
 The backbone is represented using a Cosserat-rod formulation.
 
 The spatial state used for the static model is
