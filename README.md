@@ -19,8 +19,10 @@ The current implementation focuses on:
 ---
 
 ## 1. Continuum Robot Model
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a6065f9f-8c93-4f36-b5b7-b9b216444fd8" />
-<img width="1025" height="1003" alt="image" src="https://github.com/user-attachments/assets/093d4ed3-9b73-4b97-be38-d3466c2791d8" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e4693096-c26f-4033-ab73-56a2a5be1bd5" />
+
+<img width="756" height="757" alt="image" src="https://github.com/user-attachments/assets/ebcb9349-e634-439f-b47b-64a4daad551b" />
+
 
 <img width="578" height="672" alt="image" src="https://github.com/user-attachments/assets/43343fff-b33c-4c02-8b48-74dd32389f43" />
 <img width="557" height="671" alt="image" src="https://github.com/user-attachments/assets/8c51c3e6-346a-4eaa-89ed-3cbfa6a4781b" />
