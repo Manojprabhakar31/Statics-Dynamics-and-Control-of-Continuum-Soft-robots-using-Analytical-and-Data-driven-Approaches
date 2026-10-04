@@ -23,11 +23,6 @@ The current implementation focuses on:
 
 <img width="756" height="757" alt="image" src="https://github.com/user-attachments/assets/ebcb9349-e634-439f-b47b-64a4daad551b" />
 
-
-<img width="578" height="672" alt="image" src="https://github.com/user-attachments/assets/43343fff-b33c-4c02-8b48-74dd32389f43" />
-<img width="557" height="671" alt="image" src="https://github.com/user-attachments/assets/8c51c3e6-346a-4eaa-89ed-3cbfa6a4781b" />
-<img width="557" height="677" alt="image" src="https://github.com/user-attachments/assets/0eb427b3-8a08-4989-99b5-d48c9ba918f6" />
-
 The backbone is represented using a Cosserat-rod formulation.
 
 The spatial state used for the static model is
@@ -210,6 +205,10 @@ $$
 \text{root solve}
 }
 $$
+
+<img width="578" height="672" alt="image" src="https://github.com/user-attachments/assets/43343fff-b33c-4c02-8b48-74dd32389f43" />
+<img width="557" height="671" alt="image" src="https://github.com/user-attachments/assets/8c51c3e6-346a-4eaa-89ed-3cbfa6a4781b" />
+<img width="557" height="677" alt="image" src="https://github.com/user-attachments/assets/0eb427b3-8a08-4989-99b5-d48c9ba918f6" />
 
 ---
 
